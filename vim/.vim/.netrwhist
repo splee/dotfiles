@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/splee/projects/tracker/master/tracker'
+let g:netrw_dirhist_2='/Users/splee/Downloads/SpectrumBigDoorHttp'
+let g:netrw_dirhist_3='/Users/splee/projects/app_engine/factionized'
+let g:netrw_dirhist_4='/Users/splee/Downloads/threadpool-1.2.7'
+let g:netrw_dirhist_5='/Volumes/bdstaging/repos/publisher.bigdoor.com/trunk/bigdoor'
+let g:netrw_dirhist_6='/Users/splee/bigdoor/svn/ops.bigdoor.com/trunk'
+let g:netrw_dirhist_7='/Users/splee/envs/publisher/lib/python2.6/site-packages/registration'
+let g:netrw_dirhist_8='/Users/splee/bigdoor/end-user-ui/src'
